@@ -74,7 +74,7 @@
 		// List
 		"list.dropBackground": "#1e202e",
 		"list.deemphasizedForeground": "#787c99",
-		"list.activeSelectionBackground": "#202330",
+		"list.activeSelectionBackground": "#121324",
 		"list.activeSelectionForeground": "#eeffff",
 		"list.inactiveSelectionBackground": "#1c1d29",
 		"list.inactiveSelectionForeground": "#eeffff",
