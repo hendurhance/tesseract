@@ -32,7 +32,7 @@
 		"button.foreground": "#ffffff",
 		"progressBar.background": "#3d59a1",
 		// Input
-		"input.background": "#181e30",
+                "input.background": "#141b28",
 		"input.foreground": "#eeffff",
 		"input.border": "#242d48",
 		"input.placeholderForeground": "#c0caf5",
@@ -50,8 +50,8 @@
 		"inputValidation.errorBorder": "#963c47",
 		// Dropdown
 		"dropdown.foreground": "#eeffff",
-		"dropdown.background": "#181e30",
-		"dropdown.listBackground": "#181e30",
+                "dropdown.background": "#141b28",
+                "dropdown.listBackground": "#141b28",
 		// Activity Bar
 		"activityBar.background": "#2b3657",
 		"activityBar.foreground": "#eeffff",
@@ -64,10 +64,10 @@
 		// Side Bar
 		"tree.indentGuidesStroke": "#2b2b3b",
 		"sideBar.foreground": "#eeffff",
-		"sideBar.background": "#181e30",
+                "sideBar.background": "#141b28",
 		"sideBar.border": "#101014",
 		"sideBarTitle.foreground": "#eeffff",
-		"sideBarSectionHeader.background": "#181e30",
+                "sideBarSectionHeader.background": "#141b28",
 		"sideBarSectionHeader.foreground": "#c0caf5",
 		"sideBarSectionHeader.border": "#101014",
 		"sideBar.dropBackground": "#1e202e",
@@ -115,8 +115,8 @@
 		"editorBracketPairGuide.activeBackground6": "#c49a5a",
 		// Selection
 		"selection.background": "#515c7e40",
-		"editor.background": "#181e30",
-		"editor.lineHighlightBackground": "#242d48",
+                "editor.background": "#141b28",
+                "editor.lineHighlightBackground": "#1f2940",
 		"editor.foreground": "#eeffff",
 		"editor.foldBackground": "#1111174a",
 		"editorLink.activeForeground": "#3d59a1",
@@ -393,7 +393,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+                                "foreground": "#6e8a9e"
 			}
 		},
 		{
